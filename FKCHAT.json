@@ -2,9 +2,9 @@
   "ADS": 
     {
 
-      "banner_type":"cpa",
+      "banner_type":"admob",
       "inter_type":"facebook",
-      "rewarde_type":"cpa",
+      "rewarde_type":"admob",
       "native_type":"facebook",
       
 
